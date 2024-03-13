@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6avfTKKPSuq_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">לימוד ובוחן עצמות הגולגולת</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="לימוד_ובוחן_עצמות_הגולגולת_ORG">
+    <organization identifier="לימוד_ובוחן_עצמות_הגולגולת_ORG">
+      <title>לימוד ובוחן עצמות הגולגולת</title>
+      <item identifier="לימוד_ובוחן_עצמות_הגולגולת_SCO" isvisible="true" identifierref="__6avfTKKPSuq_course_id_RES">
+        <title>לימוד ובוחן עצמות הגולגולת</title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6avfTKKPSuq_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5Xb5aucT6wm_80_P_172_0_240_433_DX1154_DY1154_CX240_CY433.png" />
+      <file href="mobile/5Xb5aucT6wm_80_RB2BDE5_P_172_0_240_433_DX1154_DY1154_CX240_CY433.png" />
+      <file href="mobile/5Xb5aucT6wm_80_P_172_59_232_112_DX1154_DY1154_CX232_CY112.png" />
+      <file href="mobile/5Xb5aucT6wm_80_P_172_171_240_80_DX1154_DY1154_CX240_CY80.png" />
+      <file href="mobile/5Xb5aucT6wm_80_P_212_283_160_80_DX1154_DY1154_CX160_CY80.png" />
+      <file href="mobile/5Xb5aucT6wm_80_P_268_219_48_64_DX1154_DY1154_CX48_CY64.png" />
+      <file href="mobile/6EEbrjGCaIb_80_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/6EEbrjGCaIb_80_RB2BDE5_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_312_200_96_96_DX1154_DY1154_CX96_CY96.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_251_48_148_142_DX1154_DY1154_CX149_CY142.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_160_56_104_145_DX1154_DY1154_CX104_CY145.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_216_168_136_96_DX1154_DY1154_CX136_CY96.png" />
+      <file href="mobile/65FUwn9WExi_80_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/65FUwn9WExi_80_RB2BDE5_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/65FUwn9WExi_80_P_184_88_200_104_DX1154_DY1154_CX200_CY104.png" />
+      <file href="mobile/66Jc1UeFoXP_80_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/66Jc1UeFoXP_80_RB2BDE5_DX1154_DY1154_CX577_CY433.png" />
+      <file href="mobile/66Jc1UeFoXP_80_P_300_179_102_179_DX1154_DY1154_CX103_CY180.png" />
+      <file href="mobile/66Jc1UeFoXP_80_P_168_183_106_175_DX1154_DY1154_CX107_CY176.png" />
+      <file href="mobile/66Jc1UeFoXP_80_P_180_102_212_80_DX1154_DY1154_CX212_CY81.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_144_56_280_320_DX1154_DY1154_CX280_CY320.png" />
+      <file href="mobile/6EEbrjGCaIb_80_RB2BDE5_P_144_56_280_320_DX1154_DY1154_CX280_CY320.png" />
+      <file href="mobile/6EEbrjGCaIb_80_P_160_56_104_152_DX1154_DY1154_CX104_CY152.png" />
+      <file href="mobile/66Jc1UeFoXP_80_P_300_186_102_172_DX1154_DY1154_CX103_CY172.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6T9iovh1Rt1.png" />
+      <file href="mobile/txt__default_6BCsPGB9M8Q.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bgkoNw0FgN.js" />
+      <file href="html5/data/js/5cYULYDTHIy.js" />
+      <file href="html5/data/js/5gb8wgiJfAi.js" />
+      <file href="html5/data/js/5hby3sauCD6.js" />
+      <file href="html5/data/js/675Rl6lM5Hm.js" />
+      <file href="html5/data/js/6Do3fWlaHtL.js" />
+      <file href="html5/data/js/6N1XR5Eo1Lk.js" />
+      <file href="html5/data/js/6rMO9Pthhj8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
